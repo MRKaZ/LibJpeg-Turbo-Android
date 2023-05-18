@@ -3,7 +3,7 @@
 ### About
 
 This is a demo project for integrating **libjpeg-turbo** as a library on Android.
-**libjpeg-turbo** has been cross-compiled as shared libraries `(.so)` and C++ and Java Native Interface (JNI) to communicate through the app.<br />
+**libjpeg-turbo** has been cross-compiled as shared libraries `(.so)` and C and Java Native Interface (JNI) to communicate through the app.<br />
 
 * Built with the latest repository of [libjpeg-turbo]("https://github.com/libjpeg-turbo/libjpeg-turbo/releases")
 
@@ -45,6 +45,11 @@ For more example/information [MainActivity.kt](app/src/main/java/com/mrkazoffici
 	<img src="art/example.png" width="500">
 </div>
 
+* Screen-shot
+<div align="center">
+	<img src="art/Screenshot_1684399343.png" width="300">
+</div>
+
 ### Compiling
 
 soon...
@@ -55,7 +60,7 @@ soon...
 
 ### License
 
-##### Distributed under the Apache License. See [`LICENSE`]() for more information
+##### Distributed under the Apache License. See [`LICENSE`](LICENSE) for more information
 
 * [Project license](LICENSE)
 * [libjpeg-turbo license](https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/LICENSE.md)
