@@ -11,7 +11,7 @@ This is a demo project for integrating **libjpeg-turbo** as a library on Android
 
 Navigate to the project dir and simply copy paste the [:turbojpeg](turbojpeg) module to which project you want to import and don't
 forget to include the module to your project. <br />
-Set `include ':turbojpeg'` in `settings.gradle`file. See [settings.gradle](settings.gradle) if you don't get it clearly...
+Set `include ':turbojpeg'` in `settings.gradle` file. See [settings.gradle](settings.gradle) if you don't get it clearly...
 
 ```kotlin
 pluginManagement {
@@ -55,7 +55,7 @@ soon...
 
 ### License
 
-##### Distributed under the Apache License. See [`LICENSE`]() for more information.ß
+##### Distributed under the Apache License. See [`LICENSE`]() for more information
 
 * [Project license](LICENSE)
 * [libjpeg-turbo license](https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/LICENSE.md)
